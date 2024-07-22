@@ -50,7 +50,7 @@ function Header() {
                 </a>
             </Typography>
             <Tooltip title="Jamel Zarga">
-                <IconButton href="https://github.com/lebleut">
+                <IconButton href="https://github.com/lebleut/ReactJS-XO-Game">
                     <GitHubIcon sx={{ fontSize: 30 }} color="primary" />
                 </IconButton>
             </Tooltip>
